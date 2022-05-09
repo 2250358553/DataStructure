@@ -1,0 +1,4 @@
+﻿  demo01.c
+D:\A_VisualStudio_Code\DataStructure_2022_05_08\DataStructure_2022_05_08\demo01.c(190,17): warning C4133: “=”: 从“SL1 *”到“SListNode *”的类型不兼容
+D:\A_VisualStudio_Code\DataStructure_2022_05_08\DataStructure_2022_05_08\demo01.c(191,17): warning C4133: “=”: 从“SL1 *”到“SListNode *”的类型不兼容
+  DataStructure_2022_05_08.vcxproj -> D:\A_VisualStudio_Code\DataStructure_2022_05_08\x64\Debug\DataStructure_2022_05_08.exe
